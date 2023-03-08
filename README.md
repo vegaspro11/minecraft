@@ -43,4 +43,4 @@ fabric api jar 파일을 `%appdata%\.minecraft\mods` 폴더에 넣는다. mods �
 6. MiniHUD
 <https://www.curseforge.com/minecraft/mc-mods/minihud/download/4160116>
 
-> 다운로드 받은 모드 파일을 `%appdata%\.minecraft\mods` 폴더에 넣는다.
+다운로드 받은 모드 파일을 `%appdata%\.minecraft\mods` 폴더에 넣는다.
