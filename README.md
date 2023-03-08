@@ -5,6 +5,7 @@ Fabric 설치
 <https://fabricmc.net/use/installer/>
 
 1. Fabric Installer 실행
+
 ![image](https://user-images.githubusercontent.com/58884235/223650718-fdf1009d-d58d-43c9-935e-6bebd2a10085.png)
 
 2. Version 선택 (1.19.3)
@@ -12,6 +13,7 @@ Fabric 설치
 3. Install
 
 4. 제대로 설치가 되었다면 다음과 같이 Fabric loader 버전 옵션이 생긴다.
+
 ![image](https://user-images.githubusercontent.com/58884235/223651347-4bf36ca0-e0c9-41b8-b914-90e93f36b0a1.png)
 
 
